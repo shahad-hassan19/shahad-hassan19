@@ -43,17 +43,30 @@
 
 ## 💻 Skills
 
+### Programming Languages
 <p align="center">
   <a href="https://www.javascript.com/" target="_blank" title="JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></a>
+  <a href="https://www.java.com/" target="_blank" title="Java"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/></a>
+</p>
+
+### Web Technologies
+<p align="center">
   <a href="https://reactjs.org/" target="_blank" title="React.js"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js"/></a>
   <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/></a>
   <a href="https://expressjs.com/" target="_blank" title="Express.js"><img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express.js"/></a>
   <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/></a>
+</p>
+
+### Frontend Technologies
+<p align="center">
   <a href="https://getbootstrap.com/" target="_blank" title="Bootstrap"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/></a>
   <a href="https://sass-lang.com/" target="_blank" title="Sass"><img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass"/></a>
-  <a href="https://jquery.com/" target="_blank" title="jQuery"><img src="https://img.icons8.com/ios-filled/50/000000/jquery.png" alt="jQuery"/></a>
   <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS"/></a>
-  <a href="https://html.spec.whatwg.org/" target="_blank" title="HTML5"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/></a>
+</p>
+
+### Other Tools and Technologies
+<p align="center">
+  <a href="https://jquery.com/" target="_blank" title="jQuery"><img src="https://img.icons8.com/ios-filled/50/000000/jquery.png" alt="jQuery"/></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" title="CSS3"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/></a>
   <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a>
   <a href="https://github.com/" target="_blank" title="GitHub"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub"/></a>
