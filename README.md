@@ -1,4 +1,4 @@
-# 🌟 Shahad Hassan | Front-End Developer Extraordinaire 🌟
+# 🌟 Shahad Hassan | MERN Full Stack Developer 🌟
 
 [![GitHub](https://img.shields.io/badge/GitHub-shahad--hassan19-181717?style=flat&logo=github)](https://github.com/shahad-hassan19)
 [![Email](https://img.shields.io/badge/Email-shahadg1983%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:shahadg1983@gmail.com)
@@ -7,32 +7,21 @@
 🚀 **Front End Developer @ Softles**  
 📅 **Feb 2024 - Present**
 
-- Crafting modern web applications with **React.js**
-- Ensuring high performance and stellar user experience
-- Staying ahead of the curve with the latest frontend trends and best practices
-
-📚 **Front End Developer Intern @ Softles**  
-📅 **Aug 2023 - Feb 2024**
-
-- Gained proficiency in **React.js** through practical exercises
-- Mastered version control with **Git**
-- Built a strong foundation in responsive design and cross-browser compatibility
-
 ---
 
 ## 🛠️ Projects
 
-### [InsightLens](#)
+### [InsightLens](https://insight-lens.vercel.app/)
 - **Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js)
 - **Features:** RESTful API integration, CRUD operations, JWT-based authentication
 - **Deployment:** Vercel, Cloudinary for image hosting, API testing with Postman
 
-### [Personal Portfolio Website](#)
+### [Personal Portfolio Website](https://portfolio-shahad-hassan.vercel.app/)
 - **Tech Stack:** React.js, Tailwind CSS
 - **Features:** Dynamic web application, modern frontend technologies, responsive design
 - **Highlights:** Efficient state management with hooks, intuitive user experience
 
-### [CineQuest](#)
+### [CineQuest](https://cinequest-gold.vercel.app/)
 - **Tech Stack:** React.js, Tailwind CSS
 - **Features:** Feature-rich web application, dynamic data handling with RESTful APIs
 - **Highlights:** Advanced state management with Context API, useState, and useEffect hooks
@@ -42,13 +31,13 @@
 ## 🎓 Education
 
 - **B. Tech (CSE) @ Vidya College of Engineering, Meerut**  
-  **2020 - Present** | **SGPA: 8.11/10**
+  **2020 - 2024**
 
-- **Class 12th (CBSE Board)**  
-  **2020** | **Percentile: 79.6**
+- **Intermediate @ D.S. Public School, Meerut**  
+  **2020**
 
-- **Class 10th (CBSE Board)**  
-  **2018** | **Percentile: 87**
+- **High School @ D.S. Public School, Meerut**  
+  **2018**
 
 ---
 
