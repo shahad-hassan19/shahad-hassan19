@@ -75,6 +75,12 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Shahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahad-hassan19&show_icons=true&theme=radical)
+
+---
+
 ## 📬 Contact Me
 
 - 📧 **Email:** [shahadg1983@gmail.com](mailto:shahadg1983@gmail.com)
