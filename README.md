@@ -1,5 +1,3 @@
-<style src="Readme.css" />
-
 # 🌟 Shahad Hassan | MERN Full Stack Developer 🌟
 
 [![GitHub](https://img.shields.io/badge/GitHub-shahad--hassan19-181717?style=flat&logo=github)](https://github.com/shahad-hassan19)
