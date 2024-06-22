@@ -76,14 +76,3 @@ Let's build something amazing together! 🚀
 
 
 
-
-
-
-p a img {
-  transition: all 0.3s ease-in-out;
-}
-
-p a img:hover {
-  transform: scale(1.2);
-}
-
