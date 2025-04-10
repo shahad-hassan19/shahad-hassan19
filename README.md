@@ -21,10 +21,10 @@
 - **Features:** Dynamic web application, modern frontend technologies, responsive design
 - **Highlights:** Efficient state management with hooks, intuitive user experience
 
-### [CineQuest](https://cinequest-gold.vercel.app/)
+### [ArtTech Online Education](https://github.com/shahad-hassan19/arttech-online-education)
 - **Tech Stack:** React.js, Tailwind CSS
-- **Features:** Feature-rich web application, dynamic data handling with RESTful APIs
-- **Highlights:** Advanced state management with Context API, useState, and useEffect hooks
+- **Features:** Feature-rich web application, Payment gateway, Authentication
+- **Highlights:** Secure authentication with Clerk, seamless video hosting via Mux, file uploads with UploadThing, and handled real-time payments using the PhonePe gateway
 
 ---
 
