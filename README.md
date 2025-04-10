@@ -11,6 +11,11 @@
 
 ## 🛠️ Projects
 
+### [ArtTech Online Education](https://github.com/shahad-hassan19/arttech-online-education)
+- **Tech Stack:** React.js, Tailwind CSS
+- **Features:** Feature-rich web application, Payment gateway, Authentication
+- **Highlights:** Secure authentication with Clerk, seamless video hosting via Mux, file uploads with UploadThing, and handled real-time payments using the PhonePe gateway
+
 ### [InsightLens](https://insight-lens.vercel.app/)
 - **Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js)
 - **Features:** RESTful API integration, CRUD operations, JWT-based authentication
@@ -21,10 +26,6 @@
 - **Features:** Dynamic web application, modern frontend technologies, responsive design
 - **Highlights:** Efficient state management with hooks, intuitive user experience
 
-### [ArtTech Online Education](https://github.com/shahad-hassan19/arttech-online-education)
-- **Tech Stack:** React.js, Tailwind CSS
-- **Features:** Feature-rich web application, Payment gateway, Authentication
-- **Highlights:** Secure authentication with Clerk, seamless video hosting via Mux, file uploads with UploadThing, and handled real-time payments using the PhonePe gateway
 
 ---
 
