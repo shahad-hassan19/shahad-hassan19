@@ -8,7 +8,7 @@
 📅 **Aug 2023 - Present**
 
 ---
-## About Me
+## 💡About Me
 
 I am a **Full Stack Developer** with a strong foundation in modern web technologies and a proven ability to take projects from concept to production. With experience spanning both frontend and backend systems, I have independently developed and deployed real-world applications, balancing performance, security, and usability.
 
