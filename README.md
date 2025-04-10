@@ -4,8 +4,8 @@
 [![Email](https://img.shields.io/badge/Email-shahadg1983%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:shahadg1983@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shahad--hassan-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shahad-hassan-82287a220/)
 
-🚀 **Frontend Developer @ Softles**  
-📅 **Feb 2024 - Present**
+🚀 **Full Stack Developer @ Softles**  
+📅 **Aug 2023 - Present**
 
 ---
 
