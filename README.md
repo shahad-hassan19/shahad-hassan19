@@ -1,4 +1,4 @@
-# 🌟 Shahad Hassan | MERN Full Stack Developer 🌟
+# 🌟 Shahad Hassan | Full Stack Developer 🌟
 
 [![GitHub](https://img.shields.io/badge/GitHub-shahad--hassan19-181717?style=flat&logo=github)](https://github.com/shahad-hassan19)
 [![Email](https://img.shields.io/badge/Email-shahadg1983%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:shahadg1983@gmail.com)
