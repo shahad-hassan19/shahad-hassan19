@@ -8,6 +8,15 @@
 📅 **Aug 2023 - Present**
 
 ---
+## About Me
+
+I am a **Full Stack Developer** with a strong foundation in modern web technologies and a proven ability to take projects from concept to production. With experience spanning both frontend and backend systems, I have independently developed and deployed real-world applications, balancing performance, security, and usability.
+
+At Softles, I transitioned from an intern to a full-time role, contributing to key product initiatives and collaborating closely with other developers to deliver scalable solutions. Most notably, I led the development of a full-featured learning platform for ArtTech Institute—implementing authentication, media streaming, secure file handling, and payment integration.
+
+I bring a builder’s mindset, a deep understanding of web architecture, and a commitment to continuous improvement. I'm particularly motivated by opportunities where engineering excellence meets real-world user impact.
+
+---
 
 ## 🛠️ Projects
 
