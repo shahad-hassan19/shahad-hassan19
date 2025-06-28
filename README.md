@@ -21,9 +21,14 @@ I bring a builder’s mindset, a deep understanding of web architecture, and a c
 ## 🛠️ Projects
 
 ### [ArtTech Online Education](https://github.com/shahad-hassan19/arttech-online-education)
-- **Tech Stack:** React.js, Tailwind CSS
+- **Tech Stack:** Next.js, Tailwind CSS, TypeScript, MongoDB, Prisma
 - **Features:** Feature-rich web application, Payment gateway, Authentication
 - **Highlights:** Secure authentication with Clerk, seamless video hosting via Mux, file uploads with UploadThing, and handled real-time payments using the PhonePe gateway
+
+### [RecoBee Analytics](https://dev.recobee.ai/)
+- **Tech Stack:** React.js, TypeScript, Tailwind CSS, Data Handling
+- **Features:** Movie analytics dashboard, File uploads, PDF exports, Real-time data visualization
+- **Highlights:** 8+ dynamic modules with reusable React components, integrated RESTful APIs for seamless backend communication, implemented advanced data filtering and transformation from multiple APIs, handled large datasets efficiently, and created responsive, high-performance UIs in a collaborative Agile team environment.
 
 ### [InsightLens](https://insight-lens.vercel.app/)
 - **Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js)
