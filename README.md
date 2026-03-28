@@ -25,18 +25,23 @@ I bring a builder’s mindset, a deep understanding of web architecture, and a c
 - **Features:** Feature-rich web application, Payment gateway, Authentication
 - **Highlights:** Secure authentication with Clerk, seamless video hosting via Mux, file uploads with UploadThing, and handled real-time payments using the PhonePe gateway
 
-### [RecoBee Analytics](https://dev.recobee.ai/)
+### [Behavioral Training ERP System](https://bts-gamma.vercel.app)
+- **Tech Stack:** Next.js, TypeScript, Taiwind CSS, REST APIs
+- **Features:** Client management, Staff management, Appointment scheduling, Insurance claims processing, Payroll workflows
+- **Highlights:** Developed complete frontend with modular React components and dynamic dashboards, integrated REST APIs for real-time data updates with form validation and role-based UI flows, and improved operational efficiency through intuitive session scheduling and claim tracking interface.
+
+### [Brunswick Fur Food – Headless Shopify Storefront](https://web.brunswickfurfood.com)
+- **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Shopify Storefront API, GraphQL, Server-Side Rendering, Appstle Subscriptions API
+- **Features:** Headless e-commerce storefront, Product catalog, Cart management, Subscription products, Checkout flows
+- **Highlights:** Implemented GraphQL queries/mutations for dynamic product rendering and cart management, built subscription-enabled product pages with real-time cart synchronization, and enhanced performance, SEO, and security through server-side rendering and secure API integration.
+
+### [RecoBee Analytics](https://recobee.ai)
 - **Tech Stack:** React.js, TypeScript, Tailwind CSS, Data Handling
 - **Features:** Movie analytics dashboard, File uploads, PDF exports, Real-time data visualization
 - **Highlights:** 8+ dynamic modules with reusable React components, integrated RESTful APIs for seamless backend communication, implemented advanced data filtering and transformation from multiple APIs, handled large datasets efficiently, and created responsive, high-performance UIs in a collaborative Agile team environment.
 
-### [InsightLens](https://insight-lens.vercel.app/)
-- **Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js)
-- **Features:** RESTful API integration, CRUD operations, JWT-based authentication
-- **Deployment:** Vercel, Cloudinary for image hosting, API testing with Postman
-
 ### [Personal Portfolio Website](https://portfolio-shahad-hassan.vercel.app/)
-- **Tech Stack:** React.js, Tailwind CSS
+- **Tech Stack:** Next.js, Tailwind CSS
 - **Features:** Dynamic web application, modern frontend technologies, responsive design
 - **Highlights:** Efficient state management with hooks, intuitive user experience
 
